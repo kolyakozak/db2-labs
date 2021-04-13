@@ -6,10 +6,10 @@
 ### Завдання 3: [petmarket.ua](https://petmarket.ua)
 
 ## Результат виконання парсингу сторінки [golos.ua](https://golos.ua)
-![task1-2](results/1.png)
+![task1-2](screenshots/1.png)
 
 ## Результат виконання парсингу сторінки [petmarket.ua](https://petmarket.ua)
-![task3](results/2.png)
+![task3](screenshots/2.png)
 
 ## Результат перетворення файлу з даними petmarket.xml в XHTML сторінку за допомогою мови XSLT 
-![task4](results/3.png)
+![task4](screenshots/3.png)
